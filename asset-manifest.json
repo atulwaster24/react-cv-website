@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cv-website/static/css/main.76fb9d38.css",
+    "main.js": "/react-cv-website/static/js/main.7b7fd55c.js",
+    "static/media/me-1.png": "/react-cv-website/static/media/me-1.195e72ec9fff95916354.png",
+    "static/media/atul-cv.pdf": "/react-cv-website/static/media/atul-cv.db2153d745c931988f40.pdf",
+    "static/media/3.jpg": "/react-cv-website/static/media/3.aee66a30dafa074cab1b.jpg",
+    "static/media/portfolio5.png": "/react-cv-website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/react-cv-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/react-cv-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/react-cv-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/react-cv-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/react-cv-website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/react-cv-website/index.html",
+    "main.76fb9d38.css.map": "/react-cv-website/static/css/main.76fb9d38.css.map",
+    "main.7b7fd55c.js.map": "/react-cv-website/static/js/main.7b7fd55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76fb9d38.css",
+    "static/js/main.7b7fd55c.js"
+  ]
+}
